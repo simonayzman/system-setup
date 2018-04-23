@@ -42,3 +42,14 @@ Copy over the following files from your home directory.
 * `.git-completion.bash`
 * `.git-prompt.sh`
 * `.gitconfig`
+* `.completion.bash.inc`
+* `.path.bash.inc`
+
+## Installation
+
+* brew
+* node/npm
+* yarn
+* React Native Docs
+
+
