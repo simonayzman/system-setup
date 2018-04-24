@@ -47,9 +47,17 @@ Copy over the following files from your home directory.
 
 ## Installation
 
+### Top Level
 * brew
 * node/npm
 * yarn
-* React Native Docs
 
+### brew
+* watchman
 
+### yarn
+* n
+* prettier
+* create-react-native-app
+* ignite-cli
+* react-native-cli
