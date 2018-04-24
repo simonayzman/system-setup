@@ -50,6 +50,9 @@ Copy over the following files from your home directory.
 * node/npm
 * yarn
 
+### gem
+* cocoapods
+
 ### brew
 * watchman
 * autoenv
