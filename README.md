@@ -54,6 +54,7 @@ Copy over the following files from your home directory.
 
 ### brew
 * watchman
+* autoenv
 
 ### yarn
 * n
@@ -61,3 +62,7 @@ Copy over the following files from your home directory.
 * create-react-native-app
 * ignite-cli
 * react-native-cli
+
+### pip
+* virtualenv
+* virtualenvwrapper
