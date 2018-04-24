@@ -4,15 +4,16 @@ A quick reference for steps I should take when setting up a new (macOS) machine.
 ## Applications
 Some applications can be found through the App Store (denoted with \*), while most are online downloads.
 
-### Productivity
+### Utilities
 * Chrome
 * Dropbox
 * Snagit
 
 ### System
-* Memory Clean\*
+* Memory Clean 3
 * App Cleaner
 * Daisy Disk
+* smcFanControl
 
 ### Developer
 * Xcode\*
@@ -39,11 +40,8 @@ Go to `~/Library/Preferences` and transfer over some relevant preferences files.
 Copy over the following files from your home directory.
 
 * `.bash_profile`
-* `.git-completion.bash`
-* `.git-prompt.sh`
 * `.gitconfig`
-* `.completion.bash.inc`
-* `.path.bash.inc`
+* `.completion/*` (`.git-completion.bash`, `.git-prompt.sh`, `.completion.bash.inc`, `.path.bash.inc`)
 
 ## Installation
 
@@ -55,13 +53,16 @@ Copy over the following files from your home directory.
 ### brew
 * watchman
 * autoenv
+* clang-format
+* uncrustify
 
 ### yarn
 * n
 * prettier
 * create-react-native-app
-* ignite-cli
 * react-native-cli
+* ignite-cli
+* ngrok
 
 ### pip
 * virtualenv
