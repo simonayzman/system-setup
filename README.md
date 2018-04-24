@@ -47,8 +47,9 @@ Copy over the following files from your home directory.
 
 ### Top Level
 * brew
-* node/npm
+* node/npm (via web installer + https://johnpapa.net/node-and-npm-without-sudo/)
 * yarn
+* rvm
 
 ### gem
 * cocoapods
